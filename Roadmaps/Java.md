@@ -1,4 +1,4 @@
-🟢 Core Java (Basics & OOP)
+## Core Java (Basics & OOP)
 
 Introduction to Java & JVM, JRE, JDK
 
@@ -42,7 +42,8 @@ instanceof operator
 
 Nested/Inner Classes (static & non-static)
 
-🟡 Intermediate Java (Important Language Features)
+--
+## Intermediate Java (Important Language Features)
 
 Packages and Access Modifiers
 
@@ -90,7 +91,8 @@ Annotations (built-in & custom)
 
 Java Reflection API
 
-🟠 Advanced Java (High-Level Features & Concepts)
+--
+## Advanced Java (High-Level Features & Concepts)
 
 Multithreading & Concurrency
 
@@ -144,7 +146,8 @@ Java Networking (Sockets, URL, HttpClient API)
 
 Java Security basics (Hashing, Encryption libraries, etc.)
 
-🟣 Enterprise Java (if relevant)
+--
+## Enterprise Java
 
 JDBC
 
